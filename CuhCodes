@@ -1,1 +1,1 @@
-{"Codes":{"TRADEME!":{"CURRENCY":{"RequiredTime":0,"Amount":500000}},"SKINNY":["MUSCLE"],"KUMAH!":{"CURRENCY":{"RequiredTime":0,"Amount":100000}}}}
+{"Codes":{"TRADEME!":{"CURRENCY":{"RequiredTime":0,"Amount":500000}},"TestCrate!":{"RandomCrate":{"RequiredTime":0,"Amount":2,"Type":"Premium"}},"RealCrate!":{"Crate":{"RequiredTime":0,"Gun":"[Knife]","Skin":"Golden Age Tanto"}}, "SKINNY":["MUSCLE"],"KUMAH!":{"CURRENCY":{"RequiredTime":0,"Amount":100000}}}}
